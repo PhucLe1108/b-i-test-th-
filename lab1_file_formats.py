@@ -4,6 +4,8 @@ students = [
     {"id": 1, "name": "Nguyen Van A", "age": 20, "major": "Computer Science", "gpa": 3.4},
     {"id": 2, "name": "Tran Thi B", "age": 21, "major": "Data Science", "gpa": 3.8},
     {"id": 3, "name": "Le Van C", "age": 22, "major": "Information Technology", "gpa": 3.1}
+    {"id": 4, "name": "Pham Minh D", "age": 20, "major": "Software Engineering", "gpa": 3.6}
+    {"id": 5, "name": "Vu Hai Yen", "age": 23, "major": "Cybersecurity", "gpa": 3.9}
 ]
 # 1. Xuất file TXT
 with open("students.txt", "w", encoding="utf-8") as f:
